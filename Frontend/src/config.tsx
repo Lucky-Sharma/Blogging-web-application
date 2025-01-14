@@ -1,0 +1,1 @@
+export const BACKENT_URL = "https://backend.luckysharmab1.workers.dev";
