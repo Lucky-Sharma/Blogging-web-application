@@ -10,3 +10,17 @@
 <img width="1920" height="894" alt="image" src="https://github.com/user-attachments/assets/064fbf45-8cac-4408-95e6-46f051caeca3" />
 <img width="1920" height="773" alt="image" src="https://github.com/user-attachments/assets/0fea9762-1a22-4011-bef5-54f73223c9d8" />
 
+## 🛠 set-up
+
+1. Install the dependencies
+
+   ```sh
+   npm install or yarn
+   ```
+
+2. Start the development server
+
+   ```sh
+   yarn run dev
+   ```
+
